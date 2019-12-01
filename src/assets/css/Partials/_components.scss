@@ -1,0 +1,47 @@
+.btn {
+    border-radius: 8px;
+    font-size: 0.4rem;
+    padding: 0.1rem;
+}
+
+#blackBtn {
+    background-color: $blackBtnColor;
+    color: $backgroundFontWhite;
+}
+
+#rainbowBtn {
+    background: $rainbowBtnColor;
+    color: $backgroundFontWhite;
+}
+
+#transparentBtn {
+    animation: gradientBG $transitionLengthAndType;
+    background: $linearTransitionColor;
+    background-size: 1000% 100%;
+    color: $backgroundFontWhite;
+}
+
+#lightGradientBtn {
+    background: $lightGradientBtnBackgroundColor;
+    color: $backgroundFontWhite;
+}
+
+#darkGradientBtn {
+    background: $darkGradientBtnBackgroundColor;
+    color: $backgroundFontWhite;
+}
+
+#clearBtn {
+    background-color: $newOrClearGridBackgroundColor;
+    color: $SupportingColor;
+}
+
+#newGridBtn {
+    background-color: $newOrClearGridBackgroundColor;
+    color: $SupportingColor;
+}
+
+#propagateBtn {
+    background-color: $propagateBtnBackgroundColor;
+    color: $backgroundFontWhite;
+}

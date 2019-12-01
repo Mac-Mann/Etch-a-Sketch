@@ -1,0 +1,51 @@
+$transitionLengthAndType: 60s linear infinite;
+
+* {
+    background-color: black;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+html {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    // Root Font Size, controls all font sizes, and a padding / border
+    font-size: 5vh;
+    text-align: center;
+}
+
+.container {
+    animation: gradientBG $transitionLengthAndType;
+    background: $linearTransitionColor;
+	background-size: 1000% 100%;
+    border: 1px solid black;
+    display: grid;
+    height: 55vh;
+    margin-top: 1.5vh;
+    width: 44vmax;
+}
+
+.box {
+    border: .5px solid $SupportingColor;
+    border-radius: .12rem;
+    margin: 0;
+    transition: all .25s ease;
+}
+
+@keyframes gradientBG {
+	0% {
+		background-position: 0% 0%;
+    }
+    25% {
+        background-position: 50% 50%;
+    }
+    50%{
+		background-position: 100% 100%;
+    }
+    51% {
+        background-position: 98% 98%;
+    }
+	100% {
+		background-position: 0% 0%;
+	}
+}
