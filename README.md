@@ -10,7 +10,7 @@ This project was 100% coded by myself. The purpose is to get some practical expe
 
 ## Screenshot
 
-![Example screenshot](./src/assets/images/Etch-a-Sketch_Screenshot.jpg)
+![Example screenshot](https://github.com/MNGoldman/Etch-a-Sketch/blob/master/src/assets/images/Etch-a-Sketch_Screenshot.JPG)
 
 ## Technologies
 
