@@ -1,6 +1,6 @@
 # Etch A Sketch
 
-An Etch-A-Sketch made with HTML, SCSS, Jquery Sand Typescript.
+An Etch-A-Sketch made with HTML, SCSS, Jquery and Typescript.
 
 ## General Info
 
