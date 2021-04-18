@@ -23,7 +23,7 @@ This project was 100% coded by myself. The purpose is to get some practical expe
 
 ## Setup
 
-The live version of the website can be seen [here](https://mngoldman.github.io/Etch-a-Sketch/).
+The live version of the website can be seen [here](https://mac-mann.github.io/Etch-a-Sketch/).
 
 ## Status
 
