@@ -1,6 +1,6 @@
 # Etch A Sketch
 
-An Etch-A-Sketch made with HTML, SCSS, Jquery and Typescript.
+An Etch-A-Sketch made with HTML, SCSS, JQuery and TypeScript.
 
 ## General Info
 
@@ -15,9 +15,9 @@ This project was 100% coded by myself. The purpose is to get some practical expe
 ## Technologies
 
 * HTML
-* SASS
-* Typescript
-* Jquery
+* SCSS
+* TypeScript
+* JQuery
 * Modernizr
 * Parcel
 
